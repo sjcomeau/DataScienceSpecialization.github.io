@@ -21,4 +21,4 @@ We've created a [sample pull request](https://github.com/DataScienceSpecializati
 2. Does the content of my contribution clearly address topics in the Data Science Specialization?
 3. Could my contribution be seamlessly integrated into the canonical course materials?
 
-If you're on the fence about any of these, err on the side of sending a pull request! 
+If you're on the fence about any of these, err on the side of sending a pull request! {Simple Edit}
